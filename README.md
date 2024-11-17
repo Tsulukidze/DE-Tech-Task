@@ -1,4 +1,4 @@
-# DE-Tech_Task
+# DE-Tech-Task
 
 This repository has 2 different Tasks
 1) database : by visiting dbTask folder you can see SQL scripts to analyze Greenplum database
